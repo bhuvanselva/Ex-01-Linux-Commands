@@ -33,9 +33,9 @@ The ls command is used to display a list of content of a directory.
 The pwd command is used to display the location of the current working directory.
 
 Syntax: pwd
-```
+
 ![image](https://github.com/user-attachments/assets/0fedf398-445a-4fa6-83e9-ec094d8cefc3)
-```
+
 
 
 
@@ -45,9 +45,9 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
-```
+
 ![image](https://github.com/user-attachments/assets/10189d3b-070b-4066-9682-52c27a23b8ee)
-```
+
 
 
 
@@ -56,9 +56,9 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
-```
+
 ![image](https://github.com/user-attachments/assets/67835c10-0ee6-46ac-b918-23e171309588)
-```
+
 
 
 
@@ -69,9 +69,9 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
-```
+
 ![image](https://github.com/user-attachments/assets/d976cb37-66d3-44d6-840f-e80045d88de7)
-```
+
 
 
 
@@ -80,19 +80,18 @@ Syntax: cd <directory name>
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
-```
+
 ![image](https://github.com/user-attachments/assets/262e5a62-672e-4d10-a09d-6e1d4f1ef3f6)
 
-```
  
 ### 7)	cp Command
 
 The cp command is used to copy a file or directory.
 
 Syntax: cp <existing file name> <new file name>
-```
+
 ![image](https://github.com/user-attachments/assets/f4694d23-3dc8-4502-a9cf-67159c2a4b09)
-```
+
 
 
 
@@ -102,9 +101,9 @@ Syntax: cp <existing file name> <new file name>
 The gedit is a general-purpose text editor. It can be used to create and edit all kinds of text files.
 
 Syntax: gedit file_name
-```
+
 ![image](https://github.com/user-attachments/assets/468ff4a4-bcc6-4f42-8023-67cdc6b337e3)
-```
+
 
 
 ### 9)	su Command
@@ -112,9 +111,9 @@ Syntax: gedit file_name
 The su command provides administrative access to another user. In other words, it allows access of the Linux shell to another user.
 
 Syntax: su <user name>
-```
+
 ![image](https://github.com/user-attachments/assets/d5a041eb-eb52-4d39-a245-922774fde2e0)
-```
+
 
 
 ### 10)	mv Command
@@ -122,9 +121,9 @@ Syntax: su <user name>
 The mv command is used to move a file or a directory form one location to another location.
 
 Syntax: mv <file name> <directory path>
-```
+
 ![image](https://github.com/user-attachments/assets/fe781bbf-bd34-494b-a07d-ea4989218e6b)
-```
+
 
 
  
@@ -133,9 +132,9 @@ Syntax: mv <file name> <directory path>
 The rename command is used to rename files. It is useful for renaming a large group of files.
 
 Syntax: rename 's/old-name/new-name/' files
-```
+
 ![image](https://github.com/user-attachments/assets/f26ff7f4-edda-4e6d-8aaa-64423b7de714)
-```
+
 
 
 ### 12)	head Command
@@ -143,9 +142,9 @@ Syntax: rename 's/old-name/new-name/' files
 The head command is used to display the content of a file. It displays the first 10 lines of a file.
 
 Syntax: head <file name>
-```
+
 ![image](https://github.com/user-attachments/assets/93263a4a-1d09-4c76-9a64-c9cb7d008960)
-```
+
 
 
 
@@ -154,9 +153,9 @@ Syntax: head <file name>
 The tail command is similar to the head command. The difference between both commands is that it displays the last ten lines of the file content. It is useful for reading the error message.
 
 Syntax: tail <file name>
-```
+
 ![image](https://github.com/user-attachments/assets/64c987e4-f3b9-4cb8-8042-65d37b98329d)
-```
+
 
 
  
@@ -165,9 +164,8 @@ Syntax: tail <file name>
 The id command is used to display the user ID (UID) and group ID (GID).
 
 Syntax: id
-```
+
 ![image](https://github.com/user-attachments/assets/570d1f41-81d0-4f64-a1db-62e493da44bb)
-```
 
 
 
@@ -176,9 +174,9 @@ Syntax: id
 The grep is the most powerful and used filter in a Linux system. The 'grep' stands for "global regular expression print." It is useful for searching the content from a file. Generally, it is used with the pipe.
 
 Syntax: command | grep <search word>
-```
+
 ![image](https://github.com/user-attachments/assets/e2d7d497-1304-4da3-8762-3b7c7fcaa842)
-```
+
 
 
 
@@ -187,9 +185,9 @@ Syntax: command | grep <search word>
 The tr command is used to translate the file content like from lower case to upper case.
 
 Syntax: command | tr <'old'> <'new'>
-```
+
 ![image](https://github.com/user-attachments/assets/ccc3b4a5-ccbb-4d30-942c-7d68ccb95234)
-```
+
 
 
 
@@ -198,9 +196,9 @@ Syntax: command | tr <'old'> <'new'>
 The chmod command is used to change the access mode of a file (i.e., read, write or execute)
 
 Syntax: chmod<options><permissions><file_name>
-```
+
 ![image](https://github.com/user-attachments/assets/b16559f3-7496-4ea1-80f5-3ba4a0800971)
-```
+
 
 ### 18)	tar Command
 
