@@ -1,6 +1,6 @@
-# Ex-01-Linux-Commands
-Bhuvaneshwari .S
-
+#Ex-01-Linux-Commands
+NAME:Bhuvaneshwari.S
+REG NO : 212222220008
 
 ## Aim:
 
@@ -261,9 +261,9 @@ Syntax: host <domain name> or <ip address>
 The gzip command is used to truncate the file size. It is a compressing tool. It replaces the original file by the compressed file having '.gz' extension.
 
 Syntax: gzip <file1> <file2> <file3>..
-```
+
 ![image](https://github.com/user-attachments/assets/01838867-34f9-4a2b-8e4c-631476c11414)
-```
+
 
 
 
@@ -279,9 +279,9 @@ Syntax:sort <file name>
 The cal command is used to display the current month's calendar with the current date highlighted.
 
 Syntax: cal
-```'
+
 ![image](https://github.com/user-attachments/assets/c33e1789-a28d-4b28-b349-2f145e945c02)
-```
+
 
 
 ### 27)	clear Command
@@ -289,9 +289,9 @@ Syntax: cal
 Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
-```
+
 ![image](https://github.com/user-attachments/assets/305d6abc-0a6e-4f1f-8932-ea94fc37d33b)
-```
+
 
 
 ### 28)	mail Command
@@ -299,10 +299,10 @@ Syntax: clear
 The mail command is used to send emails from the command line.
 
 Syntax: mail -s "Subject" <recipient address>
-```
+
 
 ![image](https://github.com/user-attachments/assets/8c38e294-d4dd-4557-a835-577c29fed218)
-```
+
 
  
 ### 29)	df Command
@@ -310,9 +310,8 @@ Syntax: mail -s "Subject" <recipient address>
 The df command is used to display the disk space used in the file system. It displays the output as in the number of used blocks, available blocks, and the mounted directory.
 
 Syntax: df
-```
+
 ![image](https://github.com/user-attachments/assets/c15ad050-605e-453e-a95b-a3dc3be73d04)
-```
 
 ### 30)	find Command
 
